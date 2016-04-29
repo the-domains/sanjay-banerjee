@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Sanjay Banerjee]]></title>
         <description><![CDATA[Sanjay Banerjee]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sanjay-banerjee/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 18:56:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 29 Apr 2016 18:58:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sanjay-banerjee/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Empowering the world of Corporate Slaves</p>]]></description>
-            <link>undefinedempowering-the-world-of-corporate-slaves/index.html</link>
+            <link>https://thegrid.ai/sanjay-banerjee/empowering-the-world-of-corporate-slaves/index.html</link>
             <guid isPermaLink="false">7aaf95ee-a776-43cc-be48-71f99ee08c2e</guid>
-            <pubDate>Fri, 29 Apr 2016 18:56:05 GMT</pubDate>
+            <pubDate>Fri, 29 Apr 2016 18:57:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
